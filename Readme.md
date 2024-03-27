@@ -18,4 +18,4 @@ gestión, análisis de escenarios y proyección para la toma de decisiones.
 |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
 | [geroPenaflor](https://github.com/geroPenaflor) <br> | [bautigs](https://github.com/bautigs) <br> | [juannardi13](https://github.com/juannardi13) <br> | [camivinciguerra](https://github.com/camivinciguerra) |
 
-![delorean](./images/delorean.gif)
+![delorean](./delorean.gif)
