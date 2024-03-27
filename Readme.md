@@ -1,4 +1,4 @@
-##<h1 align="center"> 📝 Trabajo Práctico - Gestión de Datos 📝 </h1>
+<h1 align="center"> 📝 Trabajo Práctico - Gestión de Datos 📝 </h1>
 
 Mediante este trabajo práctico se intenta simular la implementación de un nuevo
 sistema. El mismo consiste en una aplicación para una sucursal de la inmobiliaria que
